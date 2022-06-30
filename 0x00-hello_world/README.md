@@ -1,1 +1,1 @@
-first readme for C
+compiler

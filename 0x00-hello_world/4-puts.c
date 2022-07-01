@@ -1,10 +1,12 @@
 #include <stdio.h>
 
 /**
- *main = Entry point
- *use the put function
- *Return: Always 0 (Success)
- */
+*main = Print words using put
+*
+*Description: use the main function
+*to print ""Programming is like building a multilingual puzzle"
+*Return: Always 0 (Success)
+*/
 int main(void)
 {
   puts("\"Programming is like building a multilingual puzzle");

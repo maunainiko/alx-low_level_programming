@@ -4,7 +4,7 @@
 *main = Entry Point
 *
 *Description: use main function
-*this program prints a string
+*this program prints "with proper grammar, but the outcome is a piece of art,"
 *Result: Always 0(Success)
 */
 

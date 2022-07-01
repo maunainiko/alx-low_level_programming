@@ -4,7 +4,7 @@
 *main - Entry level
 *
 *Decription: using the main function
-*this program prints the size of the string
+*this program prints "Programming is like building a multilingual puzzle"
 *return 0
 */
 int main(void)

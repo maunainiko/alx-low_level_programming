@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
-*main = Entry Point
+*main - Entry point
 *
 *Description: use main function
 *this program prints "with proper grammar, but the outcome is a piece of art,"
-*Result: Always 0(Success)
+*Result: Always 0 (Success)
 */
 
 int main(void)

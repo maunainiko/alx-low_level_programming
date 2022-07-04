@@ -2,11 +2,12 @@
 #include <time.h>
 #include <stdlb.h>
 /**
-*main - entry point 
+*main-entry point
 *
 *Description: This program will print the numbers of the variable n
 *
 *Return: (0)
+
 int main(void)
 {
 int n;

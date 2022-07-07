@@ -13,15 +13,15 @@ int main(void)
 
 	for (i = 1; i <= 100; i++)
 	{
-		if (i % 3 && i % 5)
+		if (i % 3 == 0 && i % 5 == 0)
 		{
 			printf("%s", "FizzBuzz");
 		}
-		else if (i % 3)
+		else if (i % 3 == 0)
 		{
 			printf("%s", "Fizz");
 		}
-		else if (i % 5)
+		else if (i % 5 == 0)
 		{
 			printf("%s", "Buzz");
 		}

@@ -1,0 +1,41 @@
+#include <stdio.h>
+
+/**
+ * main - entry point
+ * Description: print the numbers from 1 to 100
+ *
+ * Return: 0
+ */
+
+int main(void)
+{
+	int i;
+
+	for (i = 1; i <= 100; i++)
+	{
+		if (i % 3 && i % 5)
+		{
+			printf("%s", "FizzBuzz");
+		}
+		else if (i % 3)
+		{
+			printf("%s", "Fizz");
+		}
+		else if (i % 5)
+		{
+			printf("%s", "Buzz");
+		}
+		else
+		{
+			printf("%d", i);
+		}
+		if (i != 100)
+		{
+			printf(" ");
+		}
+	}
+	printf("\n");
+	return (0);
+
+
+}
